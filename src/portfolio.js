@@ -421,15 +421,14 @@ const achievementSection = {
     },
 
     {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      imageAlt: "PWA Logo",
+      title: "Romantic Heart Stickers",
+      subtitle: "UnUsed Love Stickers has the largest collection of stickers that you can share with your friends and family WhatssApp group.",
+      image: require("./assets/images/Romantic.webp"),
+      imageAlt: "",
       footerLink: [
-        {name: "Certification", url: ""},
         {
           name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          url: "https://play.google.com/store/apps/details?id=com.ballapps.armorlovestickers&hl=en"
         }
       ]
     }
