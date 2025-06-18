@@ -348,7 +348,7 @@ const achievementSection = {
     },{
       title: "Artistic Video Glitches",
       subtitle:
-        "Slideshow maker apps are versatile tools that enable users to effortlessly create captivating and personalised photo or video slideshows. With user-friendly interfaces and a variety of customisation options, these apps allow individuals to compile their favorite memories, add transitions, effects, music, and text, and share their creations with friends and family. Ideal for special occasions, celebrations, or storytelling, these apps make it easy to turn ordinary photos and videos into engaging and emotional visual narratives, making them popular choices for both personal and professional use",
+        "Slideshow maker apps let users easily create personalized photo and video slideshows with music, transitions, and text. Perfect for special occasions or storytelling, they transform memories into engaging visual experiences. With simple interfaces and creative features, these apps are ideal for both casual users and professionals to share memorable moments.",
       image: require("./assets/images/Artistic.webp"),
       imageAlt: "",
       footerLink: [
