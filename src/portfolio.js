@@ -84,15 +84,15 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Java",
-      fontAwesomeClassname: "fa-java"
+      fontAwesomeClassname: "fab fa-java"
     },
     {
       skillName: "C++",
-      fontAwesomeClassname: "fa-c"
+      fontAwesomeClassname: "fab fa-c"
     },
     {
       skillName: "Fultter",
-      fontAwesomeClassname: "fa-flutter"
+      fontAwesomeClassname: "fab fa-flutter"
     },
     {
       skillName: "npm",
