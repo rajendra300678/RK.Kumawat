@@ -346,23 +346,15 @@ const achievementSection = {
         }
       ]
     },{
-      title: "Google Code-In Finalist",
+      title: "Artistic Video Glitches",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Slideshow maker apps are versatile tools that enable users to effortlessly create captivating and personalised photo or video slideshows. With user-friendly interfaces and a variety of customisation options, these apps allow individuals to compile their favorite memories, add transitions, effects, music, and text, and share their creations with friends and family. Ideal for special occasions, celebrations, or storytelling, these apps make it easy to turn ordinary photos and videos into engaging and emotional visual narratives, making them popular choices for both personal and professional use",
+      image: require("./assets/images/Artistic.webp"),
+      imageAlt: "",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "View App",
+          url: "https://play.google.com/store/apps/details?id=com.ballapps.artisticvideoglitches&hl=en"
         }
       ]
     },{
