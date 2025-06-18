@@ -370,23 +370,15 @@ const achievementSection = {
         }
       ]
     },{
-      title: "Google Code-In Finalist",
+      title: "Capture Photo With Location",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "This app is more than a camera—it's your storytelling companion. It captures moments with rich context, turning each photo into a chapter of your journey. Perfect for travelers and memory keepers, it weaves your experiences with location, creating vivid, meaningful stories that go beyond simple snapshots.",
+      image: require("./assets/images/gpscamera.webp"),
+      imageAlt: "",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "View",
+          url: "https://play.google.com/store/apps/details?id=com.ballapps.gpscamera&hl=en"
         }
       ]
     },{
