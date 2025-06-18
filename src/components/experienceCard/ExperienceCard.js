@@ -10,7 +10,7 @@ export default function ExperienceCard({cardInfo, isDark}) {
     setColorArrays(colorThief.getColor(imgRef.current));
   }
 
-  function rgb(values, alpha = 0.4) {
+  function rgb(values, alpha = 0.2) {
   if (!Array.isArray(values)) return null;
   return `rgba(${values.join(", ")}, ${alpha})`;
 }
