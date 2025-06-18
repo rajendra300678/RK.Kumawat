@@ -407,15 +407,15 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "Gods Latest Stickers",
       subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      imageAlt: "Google Assistant Action Logo",
+        "Gods Latest Stickers has the largest collection of stickers that you can share with your friends and family WhatssApp group.",
+      image: require("./assets/images/Gods.webp"),
+      imageAlt: "",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "View in Action ",
+          url: "https://play.google.com/store/apps/details?id=com.ballapps.populargodstickers&hl=en"
         }
       ]
     },
