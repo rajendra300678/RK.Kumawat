@@ -23,24 +23,21 @@ const greeting = {
   username: "Rajendra Kumawat",
   title: "Hi all, I'm Raj",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Flutter / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building ATM and Mobile applications with JavaScript / Flutter / Nodejs / React JS and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/19nqhx3sa18N_hIVwZHtOqikHHCV10EAq/view?usp=drivesdk", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
-// Social Media Links.   https://drive.google.com/file/d/19nqhx3sa18N_hIVwZHtOqikHHCV10EAq/view?usp=drivesdk
+
  
 
 const socialMediaLinks = {
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  github: "https://github.com/rajendra300678",
+  linkedin: "https://www.linkedin.com/in/rakendra/",
+  gmail: "Rajendra300678@gmail.com",
+  gitlab: "https://gitlab.com/Rajendra300678",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
