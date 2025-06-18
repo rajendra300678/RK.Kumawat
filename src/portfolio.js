@@ -307,26 +307,18 @@ const achievementSection = {
         {
           name: "View App",
           url: "https://play.google.com/store/apps/details?id=com.ballapps.hanumanjistickers&hl=en"
-        },
+        }
       ]
     },{
-      title: "Google Code-In Finalist",
+      title: "Video Splitter 30s Story Trim",
       subtitle:
         "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+      image: require("./assets/images/Splitter.webp"),
+      imageAlt: "",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "View App",
+          url: "https://play.google.com/store/apps/details?id=com.ballapps.cutvideoforstatus&hl=en"
         }
       ]
     },{
