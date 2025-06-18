@@ -288,7 +288,7 @@ const achievementSection = {
       title: "Lord Ganesh Sticker",
       subtitle:
         "Lord Ganesh Stickers has the largest collection of stickers that you can share with your friends and family WhatssApp group.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/ganesh.webp"),
       imageAlt: "",
       footerLink: [
         {
