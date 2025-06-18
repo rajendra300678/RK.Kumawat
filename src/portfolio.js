@@ -177,29 +177,35 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
+      role: "Senior Software Engineer",
+      company: "Neerja Softwares",
       companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      date: "2014 – Present",
+      desc: "I'm a passionate and results-driven developer with experience in building innovative and scalable applications. I’ve worked on a range of projects across industries:",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "ATM Cryptocurrency Project – Developed secure and efficient features for a cryptocurrency-based ATM platform.",
+        "MDLogic – Contributed to a healthcare management system focused on improving clinical workflows and data accessibility.",
+        "Curatus App (Ongoing) – Currently developing a blockchain-based file-sharing application using Flutter, emphasizing privacy, decentralization, and seamless cross-platform experience.",
+        "I specialize in Flutter and blockchain integration, and I thrive in building solutions that combine performance, usability, and cutting-edge technology."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
+      role: "Software Engineer",
+      company: "Swastik Info Solutions",
       companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "3.5+ Year",
+      desc: "Delivered recharge portals, e-commerce, and government projects.",
+      descBullets: [
+        "Recharge Portals & E-Commerce Platforms – Delivered fast, reliable, and user-friendly portals for mobile recharges and online shopping experiences.",
+        "Government Projects – Participated in digital transformation initiatives, building scalable and secure solutions tailored to public-sector needs."
+      ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
+      role: "Trainer",
+      company: "HCLTech",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "1 Year",
+      desc: "Handled technical operations at police stations."
     }
   ]
 };
