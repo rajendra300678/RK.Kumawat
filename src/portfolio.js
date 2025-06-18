@@ -322,23 +322,15 @@ const achievementSection = {
         }
       ]
     },{
-      title: "Google Code-In Finalist",
+      title: "Prank Funny Sounds",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Prank Funny Sounds is an entertaining and hilarious mobile app that offers a wide variety of comical audio clips and sound effects designed to add laughter and amusement to your daily life. With a collection of over 400 unique and side-splitting sound bites, this app guarantees endless moments of fun and mischief",
+      image: require("./assets/images/Prank.webp"),
+      imageAlt: "",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "View App",
+          url: "https://play.google.com/store/apps/details?id=com.ballapps.funnypranksound&hl=en"
         }
       ]
     },{
