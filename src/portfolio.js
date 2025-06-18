@@ -88,7 +88,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "C++",
-      fontAwesomeClassname: "fab fa-c"
+      fontAwesomeClassname: "fa-solid fa-c"
     },
     {
       skillName: "Fultter",
