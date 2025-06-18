@@ -312,7 +312,7 @@ const achievementSection = {
     },{
       title: "Video Splitter 30s Story Trim",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
+        "Video Splitter 30s Story Trim is a versatile and user-friendly mobile application designed to empower your video storytelling experience. With a suite of powerful editing tools and intuitive features, this app is your go-to solution for effortlessly crafting engaging video stories",
       image: require("./assets/images/Splitter.webp"),
       imageAlt: "",
       footerLink: [
