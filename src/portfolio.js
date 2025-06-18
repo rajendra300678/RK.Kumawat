@@ -20,17 +20,18 @@ const illustration = {
 };
 
 const greeting = {
-  username: "rajendra300678",
-  title: "Hi all, I'm Rajendra",
+  username: "Rajendra Kumawat",
+  title: "Hi all, I'm Raj",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Flutter / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/19nqhx3sa18N_hIVwZHtOqikHHCV10EAq/view?usp=drivesdk", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
-// Social Media Links
+// Social Media Links.   https://drive.google.com/file/d/19nqhx3sa18N_hIVwZHtOqikHHCV10EAq/view?usp=drivesdk
+ 
 
 const socialMediaLinks = {
   github: "https://github.com/saadpasta",
