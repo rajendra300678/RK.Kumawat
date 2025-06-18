@@ -334,23 +334,15 @@ const achievementSection = {
         }
       ]
     },{
-      title: "Google Code-In Finalist",
+      title: "AI Profile Pic Generator",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Profile Pic Generator is a feature-rich and user-friendly application designed to help you create stunning and personalised profile pictures for your online presence.",
+      image: require("./assets/images/aidpmaker.webp"),
+      imageAlt: "",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "View App",
+          url: "https://play.google.com/store/apps/details?id=com.ballapps.aidpmaker&hl=en"
         }
       ]
     },{
