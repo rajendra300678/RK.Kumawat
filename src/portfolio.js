@@ -281,7 +281,7 @@ const bigProjects = {
 const achievementSection = {
   title: emoji("My Apps 🏆 "),
   subtitle:
-    "A collection of My Android apps I've built and published on the Play Store — designed, developed, and maintained by me!Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+    "A collection of My Android apps I've built and published on the Play Store — designed, developed, and maintained by me!",
 
   achievementsCards: [
     {
