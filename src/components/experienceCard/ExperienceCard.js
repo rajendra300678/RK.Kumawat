@@ -3,12 +3,16 @@ import "./ExperienceCard.scss";
 import ColorThief from "colorthief";
 
 export default function ExperienceCard({cardInfo, isDark}) {
-  const [colorArrays, setColorArrays] = useState([]);
+  const [colorArrays, setColorArrays] = useState();
   const imgRef = createRef();
-
+  let colors = [
+    "66, 219, 158",
+    "107, 191, 219",
+    "138, 37, 54"
+  ]
   function getColorArrays() {
     const colorThief = new ColorThief();
-    setColorArrays(colorThief.getColor(imgRef.current));
+    setColorArrays(colors);
   }
 
   function rgb(values) {
@@ -32,7 +36,7 @@ export default function ExperienceCard({cardInfo, isDark}) {
 
   return (
     <div className={isDark ? "experience-card-dark" : "experience-card"}>
-      <div style={{background: rgb(239, 239, 239)}} className="experience-banner">
+      <div style={{background: rgb(colorArrays)}} className="experience-banner">
         <div className="experience-blurred_div"></div>
         <div className="experience-div-company">
           <h5 className="experience-text-company">{cardInfo.company}</h5>
