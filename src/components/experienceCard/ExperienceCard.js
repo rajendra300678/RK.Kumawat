@@ -10,11 +10,10 @@ export default function ExperienceCard({cardInfo, isDark}) {
     setColorArrays(colorThief.getColor(imgRef.current));
   }
 
-  function rgb(values) {
-    return typeof values === "undefined"
-      ? null
-      : "rgb(" + values.join(", ") + ")";
-  }
+  function rgb(values, alpha = 0.4) {
+  if (!Array.isArray(values)) return null;
+  return `rgba(${values.join(", ")}, ${alpha})`;
+}
 
   const GetDescBullets = ({descBullets, isDark}) => {
     return descBullets
