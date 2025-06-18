@@ -210,6 +210,14 @@ const workExperiences = {
   ]
 };
 
+/* Your Open Source Section to View Your Github Pinned Projects
+To know how to get github key look at readme.md */
+
+const openSource = {
+  showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
+  display: false // Set false to hide this section, defaults to true
+};
+
 // Some big projects you have worked on
 
 const bigProjects = {
@@ -418,6 +426,7 @@ export {
   educationInfo,
   techStack,
   workExperiences,
+  openSource,
   bigProjects,
   achievementSection,
   blogSection,
