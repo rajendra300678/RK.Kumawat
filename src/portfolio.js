@@ -298,24 +298,16 @@ const achievementSection = {
       ]
     },
     {
-      title: "Google Code-In Finalist",
+      title: "Ram Bhakt Hanuman",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+        "Lord Hanuman Stickers has the largest collection of stickers that you can share with your friends and family WhatssApp group.",
+      image: require("./assets/images/Hanuman.webp"),
+      imageAlt: "",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          name: "View App",
+          url: "https://play.google.com/store/apps/details?id=com.ballapps.hanumanjistickers&hl=en"
         },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
       ]
     },{
       title: "Google Code-In Finalist",
