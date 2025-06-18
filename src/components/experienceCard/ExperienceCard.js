@@ -5,11 +5,6 @@ import ColorThief from "colorthief";
 export default function ExperienceCard({cardInfo, isDark}) {
   const [colorArrays, setColorArrays] = useState();
   const imgRef = createRef();
-  let colors = [
-    "66, 219, 158",
-    "107, 191, 219",
-    "138, 37, 54"
-  ]
   function getColorArrays() {
     const colorThief = new ColorThief();
     setColorArrays(colors);
