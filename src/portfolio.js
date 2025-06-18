@@ -92,7 +92,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Fultter",
-      fontAwesomeClassname: "fa-brands fa-flutter"
+      fontAwesomeClassname: "fas fa-flutter"
     },
     {
       skillName: "npm",
