@@ -236,13 +236,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/logoo.png"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/logoo.svg"),
+      projectName: "Smart Track",
+      projectDesc: "WSA Customer Relationship Management System",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://wsasoftware.net/crm/Login"
         }
       ]
     },
