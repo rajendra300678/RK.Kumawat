@@ -8,7 +8,6 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import {illustration, greeting} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
-import resumePDF from "../../../public/resume.pdf";
 
 export default function Greeting() {
 
@@ -44,7 +43,7 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <a
-                    href={resumePDF}
+                    href="/resume.pdf"
                     download="Rajendra_Resume.pdf"
                     className="download-link-button"
                   >
