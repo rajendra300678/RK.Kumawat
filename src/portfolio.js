@@ -259,13 +259,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/appicon.png"),
+      projectName: "Curatus (Android ,IOS,MacOS,Windows)",
+      projectDesc: "Document Share App Blockchain",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Not Publish ,Currently in Testing Phase",
+          url: ""
         }
       ]
     }
