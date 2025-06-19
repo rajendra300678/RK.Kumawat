@@ -224,13 +224,13 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/secidsys.png"),
+      projectName: "Secure Identity Systems",
+      projectDesc: "Continuous Total Identity Monitorin,Credit Bureau Monitoring and Reporting through Equifax,Fully Managed Resolution Services,$50,000 Identity Theft Expense Reimbursement Plan,Patented Keystroke Encryption/Anti-Keylogging Tool",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://secidsys.com/"
         }
         //  you can add extra buttons here.
       ]
