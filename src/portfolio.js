@@ -236,7 +236,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/logoo.svg"),
+      image: require("./assets/images/logoo.png"),
       projectName: "Smart Track",
       projectDesc: "WSA Customer Relationship Management System",
       footerLink: [
