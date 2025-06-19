@@ -12,15 +12,6 @@ import resumePDF from "./resume.pdf";
 
 export default function Greeting() {
 
-  const handleDownload = () => {
-    const link = document.createElement('a');
-    link.href = pdfUrl;
-    link.download = downloadFileName;
-    document.body.appendChild(link);
-    link.click();
-    document.body.removeChild(link);
-  };
-
   const {isDark} = useContext(StyleContext);
   if (!greeting.displayGreeting) {
     return null;
