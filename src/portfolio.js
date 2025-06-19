@@ -247,13 +247,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/mdlogic.png"),
+      projectName: "MdLogic Flutter App ",
+      projectDesc: "Ensuring our customers have 24/7 access to their patient's health records, the MD Logic Smart Phone apps are available for both iPhone, Android smart phones.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://www.mdlogic.com/solutions/smart-phone-apps"
         }
         //  you can add extra buttons here.
       ]
